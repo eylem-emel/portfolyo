@@ -1,0 +1,190 @@
+{
+  "en": {
+    "name": "Emel",
+    "herosection": {
+      "greeting": "Hello! 👋🏻",
+      "intro": "I'm Emel, a software developer. I build solid and scalable front-end products. Let's connect!",
+      "profileimage": "profil.png",
+      "socials": [
+        {
+          "name": "GitHub",
+          "url": ""
+        },
+        {
+          "name": "LinkedIn",
+          "url": ""
+        }
+      ]
+    },
+    "skillsSection": {
+      "title": "My Skills",
+      "skills": [
+        {
+          "name": "HTML5",
+          "icon": "html5.png"
+        },
+        {
+          "name": "CSS3",
+          "icon": "css3.png"
+        },
+        {
+          "name": "JavaScript",
+          "icon": "javascript.png"
+        },
+        {
+          "name": "React",
+          "icon": "react.png"
+        }
+      ]
+    },
+    "profileSection": {
+      "title": "My Profile",
+      "items": [
+        {
+          "title": "Information",
+          "content": [
+            {
+              "question": "Date of Birth",
+              "answer": "22.07.1989"
+            },
+            {
+              "question": "Location",
+              "answer": "Mersin, Türkiye"
+            },
+            {
+              "question": "Education",
+              "answer": "Master's Degree - Labour Economics and Industrial Relations"
+            },
+            {
+              "question": "Role",
+              "answer": "Frontend Developer"
+            }
+          ]
+        },
+        {
+          "title": "About Me",
+          "content": "Hi! I'm Emel, a passionate software developer specializing in front-end technologies. I enjoy building interactive, user-friendly web applications. I'm always eager to learn new technologies and improve my skills."
+        }
+      ]
+    },
+    "projectsSection": {
+      "title": "My Projects",
+      "projects": [
+        {
+          "name": "Project 1",
+          "description": "This is a web application I built using React.",
+          "tags": [
+            "react",
+            "vercel",
+            "axios"
+          ],
+          "url": ""
+        },
+        {
+          "name": "Project 2",
+          "description": "This project is an e-commerce website with a user-friendly interface.",
+          "tags": [
+            "react",
+            "vercel",
+            "axios"
+          ],
+          "url": ""
+        }
+      ]
+    }
+  },
+  "tr": {
+    "name": "Emel",
+    "herosection": {
+      "greeting": "Merhaba! 👋🏻",
+      "intro": "Ben Emel, bir yazılım geliştiricisiyim. Sağlam ve ölçeklenebilir ön yüz ürünleri geliştirebilirim. Tanışalım!",
+      "profileimage": "profil.png",
+      "socials": [
+        {
+          "name": "GitHub",
+          "url": ""
+        },
+        {
+          "name": "LinkedIn",
+          "url": ""
+        }
+      ]
+    },
+    "skillsSection": {
+      "title": "Yeteneklerim",
+      "skills": [
+        {
+          "name": "HTML5",
+          "icon": "html5.png"
+        },
+        {
+          "name": "CSS3",
+          "icon": "css3.png"
+        },
+        {
+          "name": "JavaScript",
+          "icon": "javascript.png"
+        },
+        {
+          "name": "React",
+          "icon": "react.png"
+        }
+      ]
+    },
+    "profileSection": {
+      "title": "Profil Bilgilerim",
+      "items": [
+        {
+          "title": "Bilgilerim",
+          "content": [
+            {
+              "question": "Doğum Tarihi",
+              "answer": "22.07.1989"
+            },
+            {
+              "question": "Konum",
+              "answer": "Mersin, Türkiye"
+            },
+            {
+              "question": "Eğitim",
+              "answer": "Yüksek Lisans - ÇEKO"
+            },
+            {
+              "question": "Rol",
+              "answer": "Frontend Developer"
+            }
+          ]
+        },
+        {
+          "title": "Hakkımda",
+          "content": "Merhaba! Ben Emel, tutkulu bir yazılım geliştiricisiyim ve ön yüz teknolojilerinde uzmanım. Kullanıcı dostu ve etkileşimli web uygulamaları oluşturmayı seviyorum. Yeni teknolojileri öğrenmeye ve becerilerimi geliştirmeye her zaman açığım."
+        }
+      ]
+    },
+    "projectsSection": {
+      "title": "Projelerim",
+      "projects": [
+        {
+          "name": "Proje 1",
+          "description": "Bu, React kullanarak geliştirdiğim bir web uygulamasıdır.",
+          "tags": [
+            "react",
+            "vercel",
+            "axios"
+          ],
+          "url": ""
+        },
+        {
+          "name": "Proje 2",
+          "description": "Bu proje, kullanıcı dostu bir arayüz sunan bir e-ticaret sitesidir.",
+          "tags": [
+            "react",
+            "vercel",
+            "axios"
+          ],
+          "url": ""
+        }
+      ]
+    }
+  }
+}
