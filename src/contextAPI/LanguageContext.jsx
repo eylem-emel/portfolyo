@@ -1,8 +1,8 @@
 import {createContext, useState, useContext, useEffect} from 'react';
 
 const getBrowserLanguage = () => {
-  const language = navigator.language || navigator.userLanguage;
-  return language ? language.split('-')[0] : 'tr';
+  const lang = navigator.language.slice(0, 2);
+  return lang === 'tr' ? 'tr' : 'en';
 }
 
 const LanguageContext = createContext();
